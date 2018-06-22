@@ -1,0 +1,11 @@
+.kvdiv .rc-table td{
+    padding:5px 0px
+}
+.kvdiv .rc-table td .form-group{
+    margin-bottom:0px;
+}
+.kvdiv .rc-table th{
+    padding:10px 10px;
+    background: #479F4B;
+    color:white;
+}
